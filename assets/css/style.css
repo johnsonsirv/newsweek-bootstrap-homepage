@@ -135,7 +135,8 @@ footer ul li a {
 }
 
 .hr{
-    border: 1px solid #000;
+    border-top: 1px solid #e5e5e5;
+    margin-top: 6px;
 }
 
 @media screen and (max-width: 1326px) {
