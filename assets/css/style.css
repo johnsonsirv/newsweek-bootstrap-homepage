@@ -81,6 +81,10 @@ header .nav-item span {
     border-radius: 0;
 }
 
+
+/* Top Stories style */
+
+
 @media screen and (max-width: 1326px) {
     .outer-container {
         margin: 0;
@@ -115,7 +119,7 @@ header .nav-item span {
     }
 
     .link-container:after {
-        content: url("images/icons/nav.png");
+        content: url("assets/images/icons/nav.png");
         vertical-align: middle;
     }
 
