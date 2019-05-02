@@ -32,6 +32,54 @@ header .col {
     padding-right: 0;
     padding-left: 0;
 }
+header > nav {
+    max-width: 95%;
+}
+
+header > nav a {
+    font-size: 1.1rem;
+}
+
+header .nav-item {
+    line-height: 0.5;
+    margin: 15px 0;
+    padding: 0;
+    border-right: 1px solid darkgray;
+    flex: auto;
+    text-align: center;
+}
+
+header .nav-item:nth-last-child(2), header .nav-item:last-child {
+    border-right: none;
+}
+
+header .nav-item span {
+    color: #999;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+.outer-container > .row {
+    padding: 15px 30px;
+}
+
+.link-container a {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-right: 10px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.link-container a:hover {
+    text-decoration: none;
+}
+
+.link-container .btn {
+    padding: 3px 10px;
+    background-color: #fff;
+    color: #f72210;
+    border-radius: 0;
+}
 
 @media screen and (max-width: 1326px) {
     .outer-container {
@@ -40,5 +88,38 @@ header .col {
 
     .inner-container {
         margin: 15px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    header > .row {
+        padding: 5px;
+    }
+
+    header .date {
+        display: none;
+    }
+
+    header .img-logo img {
+        height: 20px;
+        vertical-align: top;
+    }
+
+    .link-container a {
+        font-size: 0.8rem;
+        margin-right: 3px;
+    }
+
+    .link-container .btn {
+        padding: 1px 6px;
+    }
+
+    .link-container:after {
+        content: url("images/icons/nav.png");
+        vertical-align: middle;
+    }
+
+    header nav {
+        display: none;
     }
 }
