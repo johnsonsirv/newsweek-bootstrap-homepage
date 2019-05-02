@@ -85,6 +85,9 @@ header .nav-item span {
 /* Top Stories style */
 
 
+
+
+
 /* /Footer Styles */
 footer {
     padding: 20px 30px;
@@ -131,11 +134,14 @@ footer ul li a {
     font-weight: normal;
 }
 
+.hr{
+    border: 1px solid #000;
+}
+
 @media screen and (max-width: 1326px) {
     .outer-container {
         margin: 0;
     }
-
     .inner-container {
         margin: 15px;
     }
