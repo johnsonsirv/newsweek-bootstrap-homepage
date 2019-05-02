@@ -82,6 +82,46 @@ header .nav-item span {
 
 
 /* Top Stories style */
+.top-news h2 {
+    color: #999;
+    font-size: 0.9rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.5;
+}
+
+.card {
+    border: none;
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    border-radius: 0;
+}
+
+.card-title a {
+    color: #000;
+}
+
+.card-title a:hover {
+    text-decoration-color: #f72210;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.card-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    line-height: 1.25;
+    margin-top: 10px;
+}
+
+.card-text {
+    font-size: 1rem;
+    line-height: 1.3;
+}
 
 
 
