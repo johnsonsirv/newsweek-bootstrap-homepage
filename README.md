@@ -27,7 +27,7 @@ $ cd newsweek-bootstrap-homepage
 
 ## Deployment
 
-The demo page can be found [HERE](http://raw.githack.com/johnsonsirv/newsweek-bootstrap-homepage/dev/)
+See the live page [HERE](https://johnsonsirv.github.io/newsweek-bootstrap-homepage/)
 
 ## Contributing
 
