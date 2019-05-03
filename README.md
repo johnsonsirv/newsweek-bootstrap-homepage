@@ -1,4 +1,4 @@
-# Displaying and Inputting Data
+# Using CSS Frameworks
 
 Frameworks let you focus more on building great solutions and less on how they are actually coded up on the front end. In this project, I used Twitter’s Bootstrap framework to design the homepage of the NewsWeek website [Here](https://www.newsweek.com/# "NewsWeek Home Page").
 This project was completed for demonstration purposes only; in line with standards provided by [Microverse](https://www.microverse.org/ "The Global School for Remote Software Developers!").
