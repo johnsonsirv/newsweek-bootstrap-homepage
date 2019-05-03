@@ -29,10 +29,6 @@ $ cd newsweek-bootstrap-homepage
 
 The demo page can be found [HERE](http://raw.githack.com/johnsonsirv/newsweek-bootstrap-homepage/dev/)
 
-## Contributor
-
-[Victor Okeugo](https://github.com/johnsonsirv)
-
 ## Contributing
 
 1. Fork it (https://github.com/johnsonsirv/newsweek-bootstrap-homepage/fork)
