@@ -17,7 +17,7 @@
 </p>
 
 <p>
-Frameworks let you focus more on building great solutions and less on how they are actually coded up on the front end. In this project, I used Twitter’s Bootstrap framework to design the homepage of the <a href="https://www.newsweek.com/" target="_blank"> NewsWeek Homepage </a> 
+Frameworks let you focus more on building great solutions and less on how they are actually coded up on the front end. In this project, I used Twitter’s Bootstrap framework to design the homepage of the <a href="https://www.newsweek.com/" target="_blank"> NewsWeek Homepage </a>. <br/>
 This project was completed for demonstration purposes in line with standards provided by <a href="https://microverse.org/" target="_blank">Microverse</a>.
  </P>
  
